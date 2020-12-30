@@ -28,7 +28,7 @@ Audience: Role Specialist
 
 CSAs are customer-facing roles, responsible for providing technical guidance and expertise on the Microsoft Infrastructure Azure, we ask candidates to prepare the following:
 
-1. You will have **20 minutes**, technically focused presentation, **outlining a recent Application and Infrastructure project and what was your participation on that. As Azure Synapse and Modern Data Warehouse are really high demand projects at this moment, will be great if you could include an use case explaning your project considering those components** We would love to see details here!
+1. You will have **20 minutes**, technically focused presentation, **outlining a recent Application and Infrastructure project and what was your participation on that. We would love to see details here!
 2. The presentation should **include a detailed architecture diagram**, be no more than 4 slides and cover the technical elements of transforming to cloud-based architectures.
 3. The objective of this interview is for us to understand your technical capabilities and where you have used these in a real project scenario so please ensure you create this for a technical audience.
 4. Please consider how and why this project added business value to our customers.
