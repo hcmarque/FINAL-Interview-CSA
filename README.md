@@ -4,7 +4,7 @@ Dear Candidate,
 
 Congratulations!
 
-We are really excited with the opportunity to have you in this FINAL process for an Application and Infra CSA in EMEA!
+We are really excited with the opportunity to have you in this FINAL interview process for an Application and Infra CSA in EMEA!
 
 Please check the Technical Presentation Interview session below and let us know if you have any issue or questions related to this process.
 
