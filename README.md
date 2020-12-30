@@ -9,6 +9,7 @@ We are really excited with the opportunity to have you in this FINAL interview p
 Please check the Technical Presentation Interview session below and let us know if you have any issue or questions related to this process.
 
 Please find here the team that will be in your process:
+* [Marc Hauert](https://www.linkedin.com/in/marc-hauert/) - UN Leader
 * [Martin Schmoller](https://www.linkedin.com/in/martin-schm%C3%B6llerl-3b89592/) - Regional Technology Strategist 
 * [Sam Spilsbury](https://www.linkedin.com/in/sam-spilsbury-0515b853/) - Azure Lead EMEA
 * [Jamie Bryant](https://www.linkedin.com/in/jamiebryantmcse/) - Cloud Solution Architect
