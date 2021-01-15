@@ -9,9 +9,7 @@ We are really excited with the opportunity to have you in this FINAL interview p
 Please check the Technical Presentation Interview session below and let us know if you have any issue or questions related to this process.
 
 Please find here the team that will be in your process:
-* [Marc Hauert](https://www.linkedin.com/in/marc-hauert/) - UN Leader
-* [Martin Schmoller](https://www.linkedin.com/in/martin-schm%C3%B6llerl-3b89592/) - Regional Technology Strategist 
-* [Sam Spilsbury](https://www.linkedin.com/in/sam-spilsbury-0515b853/) - Azure Lead EMEA
+* [Mark Ghazai]  - Azure Specialist Leader
 * [Jamie Bryant](https://www.linkedin.com/in/jamiebryantmcse/) - Cloud Solution Architect
 * [Hugo Marques](https://www.linkedin.com/in/hugomarques/) - Cloud Solution Architect Manager
 
@@ -30,7 +28,7 @@ Audience: Role Specialist
 CSAs are customer-facing roles, responsible for providing technical guidance and expertise on the Microsoft Infrastructure Azure, we ask candidates to prepare the following:
 
 1. You will have **20 minutes**, technically focused presentation, **outlining a recent Application and Infrastructure project and what was your participation on that.** We would love to see details here!
-2. The presentation should **include a detailed architecture diagram**, be no more than 4 slides and cover the technical elements of transforming to cloud-based architectures.
+2. The presentation should **include a detailed architecture diagram ant potentially a Demonstration - up to you**, be no more than 4 slides and cover the technical elements of transforming to cloud-based architectures.
 3. The objective of this interview is for us to understand your technical capabilities and where you have used these in a real project scenario so please ensure you create this for a technical audience.
 4. Please consider how and why this project added business value to our customers.
 
