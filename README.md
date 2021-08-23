@@ -37,4 +37,4 @@ Few ideas/possibilities on how you could present your content: (not limited to)
 
 **Please feel free to have your session using the best tool for you, however, we love to see details ;-)**
 
-*You maybe also be required to conduct a short whiteboarding session showing how you would architecture your presentation topic in Azure. (Please research and prepare this part if you are not familiar with Microsoft Azure.) - * As this will be a virtual presentation, you can use a Microsoft Whiteborad or have your Architecture ready to discuss.
+*You maybe also be required to conduct a short whiteboarding session showing how you would architecture your presentation topic in Azure. (Please research and prepare this part if you are not familiar with Microsoft Azure.) - * As this will be a virtual presentation, you can use a Microsoft Whiteboard or have your Architecture ready to discuss.
