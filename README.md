@@ -1,10 +1,10 @@
-# Microsoft Tech Interview: Data and AI CSA
+# Microsoft Tech Interview: App and Infra CSA
 
 Dear Candidate,
 
 Congratulations!
 
-We are excited about the opportunity to have you in this Panel interview process for the Data and AI CSA role open in TSI (Tech For Social Impact)
+We are excited about the opportunity to have you in this Panel interview process for the App and Infra CSA role open in TSI (Tech For Social Impact)
 
 Please check the Technical Presentation Interview session details below and let us know if you have any issues or questions related to this process.
 
@@ -22,7 +22,7 @@ Audience: Azure TSI Team (Cloud Architect, Product Specialist and Manager)
 
 CSAs are customer-facing roles, responsible for providing technical guidance and expertise on Microsoft Data and AI Azure, we ask candidates to prepare the following:
 
-1. You will have **20 minutes**, technically focused presentation, **outlining a recent Data and AI project and what was your participation in that.** We would love to see details here!
+1. You will have **20 minutes**, technically focused presentation, **outlining a recent App and Infra project and what was your participation in that.** We would love to see details here!
 2. The presentation should **include a detailed architecture diagram and potentially a Demonstration - up to you**, be NO MORE than 2 slides which cover the technical elements of transforming to cloud-based architectures.
 3. The objective of this interview is for us to understand your technical capabilities and where you have used these in a real project scenario so please ensure you create this for a technical audience.
 4. Please consider how and why this project added business value to our customers.
